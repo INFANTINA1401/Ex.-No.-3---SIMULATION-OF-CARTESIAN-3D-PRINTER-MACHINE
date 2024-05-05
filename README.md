@@ -61,8 +61,8 @@
 ## Output:
 ![image](https://github.com/premalatha-sureshbabu/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120620842/9cfa85bf-9a8a-4412-bc0d-c5086a92ea42)
 
-### Name: S.Prema Latha
-### Register Number:212222230112
+### Name: INFANTINA MARIA L
+### Register Number:212223100013
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
